@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Verma 👋
 ### 👨‍💻 Software Developer | MERN Stack | PHP & MySQL | UI Designer
 
-🚀 Currently working on: [amala-bioceuticals)](https://amalaupdated.netlify.app/)
+🚀 Currently working on: [amala-bioceuticals](https://amalaupdated.netlify.app/)
 
 🌱 Learning: React, Node.js, Laravel
 
